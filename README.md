@@ -1,2 +1,2 @@
-# Ingredia-
+# Quya-
 Landing page
